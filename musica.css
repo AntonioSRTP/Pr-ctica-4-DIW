@@ -1,0 +1,35 @@
+body {
+    background-color: dimgrey;
+}
+#botones {
+    margin: 0 0 0 40px;
+}
+#inicio {
+    width: 620px;
+    height: 150px;
+}
+button {
+    width: 200px;
+    height: 60px;
+    background-color: #f1c232;
+    border-radius: 8px;
+}
+#musica {
+    margin: -452px 0 0 10%;
+}
+#video {
+    margin: 0 0 0 650px;
+}
+#imgMusica {
+    margin: 0 0 0 7%;
+}
+#imgTexto {
+    margin: 20px 0 0 650px;
+}
+p{
+    margin: 20px 0 0 400px;
+    width: 70%;
+}
+#arriba {
+    margin: 0 0 0 85%;
+}

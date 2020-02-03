@@ -1,0 +1,55 @@
+body {
+    background-color: dimgrey;
+}
+#botones {
+    margin: 0 0 0 40px;
+}
+#inicio {
+    width: 620px;
+    height: 150px;
+}
+button {
+    width: 200px;
+    height: 60px;
+    background-color: #f1c232;
+    border-radius: 8px;
+}
+#arriba {
+    margin: 0 0 0 85%;
+}
+#titulo1 {
+    background-color: orange;
+    width: 400px;
+    margin: 0 0 0 750px;
+}
+#titulo2 {
+    background-color: orange;
+    width: 100px;
+    margin: 0 0 0 900px;
+}
+
+#personaje1 {
+    background-color: white;
+    width: 750px;
+    margin: 30px 0 0 195px;
+}
+#personaje2 {
+    background-color: white;
+    width: 750px;
+    margin: -490px 0 0 975px;
+}
+#jefe1 {
+    background-color: white;
+    width: 750px;
+    margin: 30px 0 0 195px;
+}
+#jefe2 {
+    background-color: white;
+    width: 750px;
+    margin: -660px 0 0 975px;
+}
+#jefe4 {
+    background-color: white;
+    width: 750px;
+    margin: -640px 0 0 975px;
+}
